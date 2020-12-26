@@ -14,11 +14,11 @@ function App() {
 
   return (
     <div className="App">
-        <Topbar/>
+        {/* <Topbar/> */}
         {/* <About/> */}
         {/* <Skills/> */}
         {/* <Footer/> */}
-        <Projects/>
+        {/* <Projects/> */}
     </div>
   );
 }
